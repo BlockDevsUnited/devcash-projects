@@ -84,7 +84,7 @@ Responsible for relations with other projects.
 Designs, promotes and executes token swaps with other projects. 
 
 
-## Devcash-Relations
+## Dev-Aid
 
 Collects donations and buys laptops, and provides hacker spaces for disadvantaged developers around the world
 
