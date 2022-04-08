@@ -9,8 +9,8 @@ Devcash-Projects is the project that keeps track of all projects in Devcash - in
 
 Devcash-Projects is maintained on this github. 
 
-Funds: https://blockscout.com/xdai/mainnet/address/0xD5bC3133E801c6ab8D949a301a2736f0A863F9C1/transactions
-Leader: antron3000 
+- Funds: https://blockscout.com/xdai/mainnet/address/0x2d08Ba0eebbfd8a0475961F0a60Bf785099a864C
+- Leader: antron3000 
 
 ## Blockchain Developers United, (AKA Dev-Meetups)
 
