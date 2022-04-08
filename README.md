@@ -1,11 +1,16 @@
-# devcash-projects
+# Devcash-Projects
 List of Devcash Projects, links and essential details. 
+
+Each Devcash Project receives funding in devcash. 
 
 
 ## Devcash-Projects
 Devcash-Projects is the project that keeps track of all projects in Devcash - including itself. 
 
 Devcash-Projects is maintained on this github. 
+
+Funds: https://blockscout.com/xdai/mainnet/address/0xD5bC3133E801c6ab8D949a301a2736f0A863F9C1/transactions
+Leader: antron3000 
 
 ## Blockchain Developers United, (AKA Dev-Meetups)
 
@@ -40,7 +45,7 @@ Developer Matchmaking service. Help developers find jobs, and introduce talent t
 
 Developer Communities 
 
-- [Devcash Discord](
+- [Devcash Discord](https://discord.gg/7fNmCchG)
 
 ## Dev-L-EARN
 
@@ -50,7 +55,7 @@ Devcash's official Learn-To-Earn program. Designed to train armies of developers
 
 Developer Courses, focused mainly on providing education on blockchain development.
 
-- [NFT Course]()
+- [NFT Course](https://github.com/BlockDevsUnited/NFT-COURSE)
 - [DEX Course]()
 - [DAO Course]()
 
@@ -69,10 +74,17 @@ Discord Bots, Twitter Bots, Telegram Bots and more.
 
 Dev tutoring service, where you can find developer tutors, and tutors can earn money. Paid in Devcash 
 
+## Dev-Gov
+
+Responsible for reviewing, implementing new governance protocols, 
+
+## Devcash-Relations
+
+Responsible for relations with other projects. 
+Designs, promotes and executes token swaps with other projects. 
 
 
+## Devcash-Relations
 
-
-
-
+Collects donations and buys laptops, and provides hacker spaces for disadvantaged developers around the world
 
