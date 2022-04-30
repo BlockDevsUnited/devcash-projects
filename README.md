@@ -88,3 +88,7 @@ Designs, promotes and executes token swaps with other projects.
 
 Collects donations and buys laptops, and provides hacker spaces for disadvantaged developers around the world
 
+## IBO
+
+Initial Bounty Offering. 
+
