@@ -78,7 +78,7 @@ Dev tutoring service, where you can find developer tutors, and tutors can earn m
 
 Responsible for reviewing, implementing new governance protocols, 
 
-## Devcash-Relations
+## Devcash-Diplomacy
 
 Responsible for relations with other projects. 
 Designs, promotes and executes token swaps with other projects. 
